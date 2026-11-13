@@ -1,0 +1,12 @@
+{
+  "name": "parlaytix",
+  "description": "ParlayTix plugins for Claude.",
+  "owner": { "name": "ParlayTix" },
+  "plugins": [
+    {
+      "name": "parlaytix",
+      "source": "./parlaytix",
+      "description": "The prediction market for tickets. Find fan tickets, start a purchase or request you confirm on ParlayTix, set up Scout watches, research prediction markets and draft Group Wagers."
+    }
+  ]
+}

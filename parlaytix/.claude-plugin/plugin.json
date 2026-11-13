@@ -1,0 +1,10 @@
+{
+  "name": "parlaytix",
+  "description": "The prediction market for tickets. Find fan tickets, start a purchase or request you confirm on ParlayTix, set up Scout watches, research prediction markets and draft Group Wagers.",
+  "version": "0.1.0",
+  "author": { "name": "ParlayTix" },
+  "homepage": "https://parlaytix.xyz",
+  "repository": "https://github.com/kasper-keunen/parlaytix-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://parlaytix.xyz/privacy-policy"
+}

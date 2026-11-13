@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "parlaytix": {
+      "type": "http",
+      "url": "https://mcp.parlaytix.xyz/mcp"
+    }
+  }
+}
